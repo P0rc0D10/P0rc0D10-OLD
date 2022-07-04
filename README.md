@@ -7,7 +7,7 @@
 
 ### 🔧 My Projects
 - 🌐 [My Website](https://malfunzionato.it/)
-- 🛒 [Shippy Discord Selfbot](https://shippy.fun/)
+- 🛒 [CocaColaOS]()
 - 🔎 [Soon]()
 
 ### 🐍 Languages and Frameworks
