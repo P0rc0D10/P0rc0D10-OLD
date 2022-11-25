@@ -1,17 +1,13 @@
-# 🥤  CocaCola
+# 🥤  Reizy
 **Hey!**
   
 ### 🏓 My Hobbies 
 - 🎨 Graphics, art and design.
--  🖥Play Minecraft
+-  🖥Play Minecraft and Roblox
 
 ### 🔧 My Projects
-- 🌐 [My Website](https://malfunzionato.it/)
-- 🛒 [CocaColaOS]()
-- 🔎 [Soon]()
+- 🌐 [My Website](https://reizy.eu)
 
 ### 🐍 Languages and Frameworks
-- Python
-- Javascript
 - HTML
-- Node.js
+- I quitted from my dev "job"
