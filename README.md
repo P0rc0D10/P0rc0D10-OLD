@@ -3,7 +3,8 @@
   
 ### 🏓 My Hobbies 
 - 🎨 Graphics, art and design.
--  🖥Play Minecraft and Roblox
+- 🖥 Play Minecraft
+- 🎵 I make music [(Malfunzionato ok spotify)](https://l.malfunzionato.it/spotify)
 
 ### 🔧 My Projects
 - 🌐 [My Website](https://reizy.eu)
