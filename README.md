@@ -7,7 +7,7 @@
 - 🎵 I make music [(Malfunzionato on spotify)](https://l.malfunzionatomusic.eu/spotify)
 
 ### 🔧 My Projects
-- 🌐 [My Website](https://reizy.eu)
+- 🌐 [My Website](#) (Not active)
 
 ### 🐍 Languages and Frameworks
 - HTML
